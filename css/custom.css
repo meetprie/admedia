@@ -1,0 +1,11 @@
+section.section-no-padding-bottom {
+    padding-bottom: 0 !important;
+}
+
+section.section-no-padding-top {
+    padding-top: 10px !important;
+}
+
+/*html[lang="ar"]  .date {
+    direction: rtl;
+}*/

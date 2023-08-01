@@ -1,0 +1,1548 @@
+html[lang="en"]  header .logo {
+    margin-right: 5.9%;
+    margin-left: 0;
+}
+html[lang="en"] .navigation ul li {
+    margin-left: 0;
+    margin-right: 38px;
+}
+html[lang="en"] .search-lang .lang {
+    margin-left: 0;
+    margin-top: -13px;
+}
+html[lang="en"] .search-lang .search {
+    margin-left: 20px;
+    margin-top: -2px;
+}
+html[lang="en"] .search-lang .search img {
+    transform: scaleX(-1);
+}
+html[lang="en"] section.news-section h1,
+html[lang="en"] section.news-section h2{
+    font-size: 35px;
+}
+html[lang="en"] .banner-slider .item .slider-content{
+    padding: 4% 0% 4% 4%;
+}
+html[lang="en"] .slider-img .mute{
+    right: 35px;
+    left: auto;
+    z-index: 1;
+}
+html[lang="en"] .banner-owl .owl-nav {
+    right: auto;
+    left: 0;
+    padding-right: 0;
+    padding-left: 4%;
+    display: flex;
+    width: 115px;
+    flex-direction: row;
+}
+html[lang="en"] .main-slider .slider-img::before{
+    left: 0;
+    right: auto;
+    transform: rotate(180deg);
+}
+html[lang="en"] .slider-content .app-store li:nth-child(2) {
+    margin: 0;
+    padding: 0;
+    border-right: 0;
+    border-left: none;
+    position: relative;
+    margin-right: 15px;
+}
+html[lang="en"] .slider-content .app-store li {
+    margin-left: 0;
+    margin-right: 11px;
+}
+html[lang="en"] .slider-content .available-on li {
+    margin-left: 0;
+    margin-right: 14px;
+}
+html[lang="en"] .slider-content p{
+    max-width: 100%;
+}
+html[lang="en"] .about-media .about-content {
+    padding-left: 0;
+    padding-right: 8%;
+}
+html[lang="en"] .career-bg > h2,
+html[lang="en"] .career-popup .popupwrap .job-logo .job-type-name h2,
+html[lang="en"] .popupwrap.media-kit-download h2,
+html[lang="en"] .media-kit-form h2,
+html[lang="en"] .happeness-metter h4,
+html[lang="en"] .bouble-audio-heading h3,
+html[lang="en"] .article-section + section .container > h3,
+html[lang="en"] h2.title,
+html[lang="en"] .vision-section h2,
+html[lang="en"] .about-media-inner .about-content h1,
+html[lang="en"] section.news-section h1,
+html[lang="en"] section.news-section h2,
+html[lang="en"] .service h2,
+html[lang="en"] .our-brand h1,
+html[lang="en"] .our-brand h2,
+html[lang="en"] .about-media .about-content h1{
+    text-transform: uppercase;
+    letter-spacing: 5px
+}
+html[lang="en"] .our-brand .title-icon h3 img {
+    margin-left: 0;
+    margin-right: 9px;
+}
+html[lang="en"] .our-brand .title-icon h3{
+    text-transform: uppercase;
+}
+html[lang="en"] .service-list .service-content h4{
+    text-transform: uppercase;
+}
+html[lang="en"] .resource-access .raccess::before {
+    right: 0;
+    left: 6px;
+}
+html[lang="en"] .resource-access .raccess {
+    padding-right: 0;
+    padding-left: 0;
+}
+html[lang="en"] .resource-access .raccess::after {
+    transform: rotateY(180deg);
+    margin-left: 6px;
+}
+html[lang="en"] .service-list .service-content {
+    padding: 0 0 0 90px;
+}
+html[lang="en"] .service-list .service-content .icon{
+    right: auto;
+    left: 0;
+}
+html[lang="en"] .resource-access:before{
+    right: auto;
+    left: 0;
+}
+html[lang="en"] .news-section .news {
+    padding-left: 0;
+    padding-right: 5%;
+}
+html[lang="en"] .socail-icon li:last-child {
+    margin-left: 11.4%;
+}
+html[lang="en"] .socail-icon li:first-child {
+    margin-left: 0;
+}
+html[lang="en"] .search-box .form .submit{
+    left: auto;
+    right: -1px;
+}
+html[lang="en"] .search-box .form input[type="text"]{
+    padding: 0 135px 0 15px;
+}
+html[lang="en"] .search-box .form .submit input{
+    width: auto;
+    font-size: 18px;
+}
+html[lang="en"] .top-footer h2{
+    text-transform: uppercase;
+}
+html[lang="en"] .bottom-footer > div.f-logo + div {
+    padding-left: 0;
+    padding-right: 0;
+}
+html[lang="en"] .bottom-footer > div{
+    float: left;
+}
+html[lang="en"] .bottom-footer > div.f-logo {
+    margin-left: 0;
+    margin-right: 11.5%;
+}
+html[lang="en"] .top-footer .subscribe {
+    float: left;
+}
+html[lang="en"] .top-footer .follow-social {
+    float: right;
+}
+html[lang="en"] .inner-page header.header:before,
+html[lang="en"] header.header.fixed::before{
+    transform: scaleX(-1);
+}
+html[lang="en"] footer.footer {
+    clip-path: polygon(55px 10px, 100% 0px, 100% 50%, 100% 100%, 0px 100%, 0px 100%, 0px 0px);
+}
+html[lang="en"] .copyright ul > li {
+    padding-right: 27px;
+    margin-right: 27px;
+    padding-left: 0;
+    margin-left: 0;
+}
+html[lang="en"] .copyright ul > li:last-child {
+    padding-right: 0;
+    margin-right: 0;
+}
+html[lang="en"] .copyright ul > li::before {
+    left: auto;
+    height: 1px;
+    width: 8px;
+    bottom: 0;
+    right: 0;
+}
+
+html[lang="en"] section.vision-section,
+html[lang="en"] section.service,
+html[lang="en"] section.about-media{
+    clip-path: polygon(calc(100% - 70px) 0px, 100% 10px, 100% 51%, 100% calc(100% - 10px), 70px calc(100% - 0px), 0% calc(100% - 10px), 0% 9px);
+}
+html[lang="en"] .breadcrumb li {
+    margin-left: 0;
+    margin-right: 7px;
+    padding-left: 0;
+    padding-right: 7px;
+    border-left: 0;
+    border-right: 1px solid #929292;
+}
+html[lang="en"] .breadcrumb li:last-child{
+    margin-right: 0;
+    margin-left: 0;
+    border-right: 0;
+}
+html[lang="en"] .priorities-list .item {
+    padding-right: 0;
+    padding-left: 125px;
+}
+html[lang="en"] .priorities-list .item .icon{
+    right: auto;
+    left: 0;
+}
+html[lang="en"] .priorities-list .item .priorities-content {
+    padding-right: 0;
+    padding-left: 30px;
+}
+html[lang="en"] .priorities-list li:nth-child(2n) {
+    padding-right: 0;
+    padding-left: 5px;
+}
+html[lang="en"] .priorities-list .item .priorities-content::before{
+    right: auto;
+    left: 0;
+}
+html[lang="en"] .priorities-content h3{
+    text-transform: uppercase;
+}
+html[lang="en"] .bofd-name h5 {
+    padding-left: 0;
+    padding-right: 150px;
+}
+html[lang="en"] .bofd-name .follow {
+    left: auto;
+    right: 0;
+    top: 10px;
+}
+html[lang="en"] .bofd-list .follow > li,
+html[lang="en"] .bofd-name .follow > li {
+    margin-right: 20%;
+    margin-left: 0;
+}
+html[lang="en"] .bofd-list .follow > li:last-child,
+html[lang="en"] .bofd-name .follow > li:last-child {
+    margin-right:0;
+}
+html[lang="en"] .other-bofd .bofd-list > li .other-name {
+    margin-right: 0;
+    margin-left: 15px;
+}
+html[lang="en"] .bofd-list .follow{
+    right: 12px;
+    left: auto;
+    bottom: 8px;
+}
+html[lang="en"] .other-bofd .bofd-list > li {
+    margin-left: 0;
+    margin-right: 2.4%;
+    padding-left: 0;
+    padding-right: 20px;
+}
+html[lang="en"] .inner-page .header .logo {
+    margin-left: 0;
+}
+html[lang="en"] .search-popup .close {
+    position: absolute;
+    top: -50px;
+    right: 0;
+    left: auto;
+}
+html[lang="en"] .tab ul.tabs > li:last-child,
+html[lang="en"] .brand-channel ul > li:last-child {
+    margin-left: 25px;
+}
+html[lang="en"] .tab ul.tabs > li:first-child,
+html[lang="en"] .brand-channel ul > li:first-child {
+    margin-left: 0px;
+}
+/*Brand Page Start*/
+html[lang="en"] .brand-video-mute{
+    left: auto;
+    right: 15px;
+}
+html[lang="en"] .radio-round{
+    margin-right: 22px;
+    margin-left: 0;
+}
+html[lang="en"] .bouble-audio-heading {
+    float: left;
+}
+html[lang="en"] .music-player{
+    float: right;
+}
+html[lang="en"] .music-control ul {
+    justify-content: flex-start;
+    flex-direction: row-reverse;
+}
+html[lang="en"] .bouble-audio-block > div.come-on {
+    left: 40px;
+    right: 310px;
+}
+html[lang="en"]  .kadak-fm-heading-block .download-stors ul li.impotant-stor {
+    text-align: left;
+}
+html[lang="en"] .come-one-img {
+    margin-left: 0;
+    margin-right: 14px;
+}
+html[lang="en"] .song-img {
+    margin-right: 0;
+    margin-left: 30px;
+}
+html[lang="en"] .download-stors ul li:last-child {
+    margin-left: 10px;
+}
+html[lang="en"] .download-stors ul li.google-play{
+    margin-left: 0;
+}
+html[lang="en"] .brand-photos-slidr .owl-nav {
+    left: auto;
+    display: flex;
+    right: 0;
+}
+html[lang="en"] .brand-photos-slidr .owl-nav > button {
+    transform: scaleX(-1);
+    margin: 0 10px;
+}
+html[lang="en"] .brand-photos-slidr .owl-nav > button.owl-next {
+    margin-right: 0;
+}
+html[lang="en"] .bouble-social-share > .btn {
+    margin-left: 0;
+    margin-right: 55px;
+}
+html[lang="en"] .tab ul.tabs > li a,
+html[lang="en"] .brand-channel ul > li a{
+    font-weight: 400;
+}
+
+html[lang="en"] .tab ul.tabs > li a.active,
+html[lang="en"] .brand-channel ul > li a.active{
+    font-weight: 600;
+}
+html[lang="en"] .rpmtbp-data-table ul li:hover div,
+html[lang="en"] .rpmtbp-data-table ul li.active div {
+    transform: translateX(40px);
+}
+html[lang="en"] .rpmtbp-data-table ul:before {
+    right: 0;
+    left: 25.6%;
+}
+html[lang="en"] .rpmtbp-data-table ul li > div:last-child {
+    padding-right: 0;
+    padding-left: 40px;
+}
+html[lang="en"] .good-luck-video-block{
+    margin-left: 0;
+    margin-right: 3%;
+}
+html[lang="en"] ul.control-icon-list li:first-child {
+    margin-left: 0;
+}
+html[lang="en"] .country-time span:last-child {
+    margin-right: 0;
+    border-right: 0px solid #fff;
+    padding-right: 0;
+}
+html[lang="en"] .country-time span {
+    border-left: 0;
+    border-right: 2px solid #fff;
+    padding-left: 0px;
+    padding-right: 10px;
+    margin-left: 0px;
+    margin-right: 10px;
+}
+html[lang="en"] #tv_achala_sc_slider .owl-nav {
+    display: flex;
+    left: auto;
+    right: 2.8%;
+}
+html[lang="en"] #tv_achala_sc_slider .owl-nav > button {
+    transform: scaleX(-1);
+    margin-left: 0;
+    margin-right: 22px;
+}
+html[lang="en"] #tv_achala_sc_slider .owl-nav > button.owl-next {
+    margin: 0;
+}
+
+html[lang="en"] .deactivation-box-img {
+    margin-left: 0;
+    margin-right: 4%;
+}
+html[lang="en"] .deactivation-block > div:before {
+    right: 0;
+    left: -11%;
+}
+html[lang="en"] .deactivation-block > div:nth-child(2n+1):before{
+    display: none;
+}
+html[lang="en"] .deactivation-box-info h3{
+    text-transform: uppercase;
+}
+html[lang="en"] .digi-about-img {
+    margin-left: 0;
+    margin-right: 30px;
+}
+html[lang="en"] .about-img-info {
+    padding-right: 0;
+    padding-left: 4%;
+}
+html[lang="en"] .about-img-info img {
+    right: auto;
+    left: 0;
+    transform: rotateY(180deg);
+}
+html[lang="en"] .job-search .job-label{
+    margin-left: 0;
+    margin-right: 10px;
+}
+html[lang="en"] form.Content-form select,
+html[lang="en"] .job-search select{
+    padding: 0 40px 0 10px;
+    background-position: 91% 18px;
+}
+html[lang="en"] .job-filter .job-search > div{
+    margin-right: 5%;
+    margin-left: 0;
+}
+html[lang="en"] .job-filter .job-search > div:last-child{
+    margin-right: 0;   
+}
+html[lang="en"] .job-description > ul > li a.btn{
+    font-size: 16px;
+}
+html[lang="en"] .career-bg .portal-content {
+    width: 48%;
+    padding: 18px 18px 18px 4%;
+    margin-right: 0;
+    margin-left: 4%;
+    border-right: 0;
+    border-left: 1px solid #EDEEEE;
+    margin-left: 4%;
+}
+html[lang="en"] .main-media .main-media-content{
+    padding-right: 0;
+    padding-left: 30px;
+}
+html[lang="en"] .artical-row > .sidebar {
+    margin-right: 0;
+    margin-left: 30px;
+}
+html[lang="en"] #sync1 .owl-nav{
+    flex-direction: row;
+    left: auto;
+    right: 0;
+}
+html[lang="en"] #sync1 .item .artical-slider-content {
+    padding-left: 0;
+    padding-right: 100px;
+}
+html[lang="en"] .share > li:last-child {
+    margin-left: 3%;
+}
+html[lang="en"] .share > li:first-child {
+    margin-left: 0;
+}
+html[lang="en"] .select-option li:last-child {
+    margin-left: 20px;
+}
+html[lang="en"] .select-option li:first-child {
+    margin-left: 0px;
+}
+html[lang="en"] .brand-kit p{
+    padding-left: 0;
+    padding-right: 0;
+}
+html[lang="en"] .format-option label:before{
+    right: auto;
+    left: 0;
+}
+html[lang="en"] .format-option label {
+    padding-right: 0px;
+    padding-left: 30px;
+}
+html[lang="en"] .popupwrap .option > div {
+    padding: 35px 55px 35px 45px;
+}
+html[lang="en"] .popupwrap .option > div.brand-kit {
+    padding: 35px 35px 35px 45px;
+}
+html[lang="en"] .popupwrap .option > div.download::before{
+    left: auto;
+    right: 0;
+}
+html[lang="en"] .contact-page .contact-img{
+    float: right;
+}
+html[lang="en"] .contact-page .address-iframe{
+    float: left;
+}
+html[lang="en"] .contact-form .address-detail{
+    float: left;
+    padding-right: 30px;
+    padding-left: 0;
+}
+html[lang="en"] .contact-form .c-form{
+    float: right;
+}
+html[lang="en"] form.Content-form .input-radio .radio {
+    margin-right: 0;
+    margin-left: 5%;
+}
+html[lang="en"] form.Content-form .input-radio .radio input + label{
+    padding-left: 30px;
+    padding-right: 0;
+}
+html[lang="en"] form.Content-form .input-radio .radio input + label:after,
+html[lang="en"] form.Content-form .input-radio .radio input + label:before{
+    right: auto;
+    left: 0;
+}
+html[lang="en"] .address-detail ul li {
+    padding-right: 0;
+    padding-left: 35px;
+}
+html[lang="en"] .address-detail ul li .icon{
+    left: 0;
+    right: auto;
+}
+html[lang="en"] section.supplier-entry {
+    margin-bottom: -20px;
+}
+html[lang="en"] .privacy .container > ol > li,
+html[lang="en"] .privacy .container > ul > li,
+html[lang="en"] ul.listing li{
+    padding-left: 20px;
+    padding-right: 0;
+}
+html[lang="en"] .privacy .container > ol > li::before,
+html[lang="en"] .privacy .container > ul > li::before,
+html[lang="en"] ul.red-border li::before,
+html[lang="en"] ul.red-dot li::before{
+    right: auto;
+    left: 0;
+}
+html[lang="en"] .supplier-btn > a:first-child{
+    margin-left: 0;
+    margin-right: 25px;
+}
+html[lang="en"] .contact-detail p a {
+    margin-left: 0;
+    margin-right: 15px;
+    border-left: 0;
+    border-right: 1px solid var(--blue);
+    padding-left: 0;
+    padding-right: 20px;
+}
+html[lang="en"] .contact-detail p a:last-child {
+    margin-right: 0px;
+    border-right: none;
+    padding-right: 0px;
+}
+html[lang="en"] .search-bar .form .form-field:first-child {
+    margin-left: 0;
+    margin-right: 0;
+}
+html[lang="en"] .search-bar .form-field input[type="submit"] {
+    border-radius: 0px 5px 5px 0px;
+    padding: 12px 5px 12px 20px;
+}
+html[lang="en"] .search-bar .form .form-field:last-child::before {
+    transform: scaleX(-1);
+    right: auto;
+    left: 6px;
+}
+html[lang="en"] ul.uploading-list li{
+    float: left;
+    padding-left: 0;
+    padding-right: 180px;
+}
+html[lang="en"] ul.uploading-list li > a{
+    left: auto;
+    right: 0;
+}
+html[lang="en"] ul.uploading-list li.loading {
+    padding-left: 10px;
+    padding-right: 0;
+}
+html[lang="en"] ul.uploading-list li span {
+    padding: 0 20px 0 10px;
+}
+html[lang="en"] ul.uploading-list li.loading img{
+    margin-left: 0;
+    margin-right: 15px;
+}
+/*html[lang="en"] .emp-form-box .emp-icon{
+    background-color: #000;
+}
+html[lang="en"] .emp-form-box .emp-icon .e-icon img{
+    filter: brightness(100);
+}*/
+html[lang="en"] .emp-form-box .emp-icon h3 {
+/*    color: #fff;*/
+    text-align: left;
+    padding-left: 15px;
+    padding-right: 0;
+}
+html[lang="en"] .mind-the-mind a img {
+    margin: 0 0 0 15px;
+    transform: rotate(180deg);
+}
+html[lang="en"] .accordion > a {
+    padding-right: 0;
+    padding-left: 35px;
+}
+html[lang="en"] .accordion a img{
+    right: auto;
+    left: 15px;
+}
+html[lang="en"] .accordion.active a img {
+    transform: rotate(0);
+}
+html[lang="en"] .accordion > a p{
+    padding-right: 0;
+    padding-left: 15px;
+}
+html[lang="en"] .accordion a img{
+    transform: rotate(-90deg);
+}
+html[lang="en"] .search-404 form button {
+    left: auto;
+    right: 0;
+}
+html[lang="en"] .slider-content .date span {
+    margin-left: 0;
+    margin-right: 15px;
+    padding-left: 0;
+    padding-right: 15px;
+    border-left: 0;
+    border-right: 1px solid #fff;    
+}
+html[lang="en"] .slider-content .date span:last-child {
+    margin-right: 0;
+    padding-right: 0;
+    border: none;
+}
+html[lang="en"] .slider-content .date span:first-child {
+    margin-right: 0;
+    border-right: none;
+}
+html[lang="en"] .bofd-name p {
+    padding-right: 0;
+    padding-left: 40px;
+}
+html[lang="en"] .team .bofd-name p {
+    padding-left: 0;
+}
+html[lang="en"] .bofd-name p::before{
+    right: auto;
+    left: 0;
+    transform: none;
+}
+html[lang="en"] .music-name p span:first-child {
+    margin-left: 0;
+    text-align: right;
+}
+html[lang="en"] .music-name p::after {
+    margin-right: 0;
+    margin-left: auto;
+}
+html[lang="en"] .music-name > span {
+    text-align: right;
+}
+html[lang="en"] .vendor .kd-row > .kd-6 {
+    padding-left: 15px;
+    padding-right: 40px;
+    border-right: 1px solid #EDEEEE;
+    border-left: 0;
+}
+html[lang="en"] .vendor .kd-row > .kd-6:last-child {
+    border-right: none;
+    padding-left: 40px;
+    padding-right: 15px;
+}
+html[lang="en"] .search-page .brand-channel{
+    display: block;
+}
+
+
+html[lang="en"] .service-list li {
+    float: left;
+}
+html[lang="en"] .service-list li:nth-child(2n) {
+    float: right;
+}
+/*html[lang="en"] .sport-btn-type ul li a {
+    padding: 8px 8px 8px 0px;
+}
+html[lang="en"] .sport-btn-type ul li.active a,
+html[lang="en"] .sport-btn-type ul li a:hover {
+    padding: 8px 11px;
+}*/
+/*html[lang="en"] .download-stors ul li {
+    margin-right: 0;
+    margin-left: 0;
+}*/
+html[lang="en"] .artical-row .left-dec .date,
+html[lang="en"] .main-media .date {
+    text-align:left;
+}
+html[lang="en"] .button-left {
+    text-align: left;
+}
+html[lang="en"] ul.article-list .artical-img .category {
+    left: 0;
+    right: auto;
+}
+html[lang="en"] .key-detail ul li {
+    margin-left: 0;
+    margin-right: 6%;
+}
+html[lang="en"] .apply-now-popup p {
+    text-align: right;
+}
+html[lang="en"] .key-detail ul li:last-child{
+    margin-left: 0;
+    margin-right:0;   
+}
+html[lang="en"] .contact-detail p {
+    margin-right: 20px;
+    margin-left: 0;
+}
+
+html[lang="en"] .search-popup .close {
+    left: auto;
+    right: 0;
+}
+html[lang="en"] .violation-popup .close {
+    left: auto;
+    right: 0;
+    top: -10px;
+    float: right;
+}
+html[lang="en"] .media-kit-popup .close {
+    right: auto;
+    left: 15px;
+}
+html[lang="en"] .outer-div-popup .close {
+    left: auto;
+    right: 0;
+    float: left;
+}
+html[lang="en"]  form.violation-form .checkbox {
+    text-align: right;
+}
+html[lang="en"] form.violation-form .checkbox input[type="checkbox"] + label {
+    padding-right: 35px;
+    padding-left: 0;
+}
+html[lang="en"] form.violation-form .checkbox input[type="checkbox"] + label::before {
+    left: auto;
+    right: 0;
+}
+html[lang="en"] .emp-form a {
+    text-align: right;
+}
+html[lang="en"] .got-burned-heading {
+    padding-right: 0;
+    padding-left: 0;
+}
+html[lang="en"] .got-burned-block {
+    float: left;
+}
+html[lang="en"] .got-burned-block.left {
+    float: right;
+}
+html[lang="en"] .kadak-fm-heading-block .bouble-audio-heading{
+    float: none;
+}
+
+html[lang="en"] .kadak-fm-heading-block:before{
+    left: auto;
+    right: 0;
+}
+html[lang="en"] .sub-box .form .submit {
+    left: auto;
+    right: -1px;
+}
+html[lang="en"] .sub-box .form input[type="text"] {
+    padding: 0 135px 0 15px;
+}
+html[lang="en"] .sub-box .form .submit input {
+    border-radius: 0px 5px 5px 0px;
+}
+html[lang="en"] .rpmtbp-data-table ul li:first-child:hover div,
+html[lang="en"] .rpmtbp-data-table ul li:first-child.active div{
+    transform: translate(0);
+}
+html[lang="en"] .godown-tab .tab .tabs{
+    margin-left: 0;
+    margin-right: 30px;
+}
+html[lang="en"] .sub-box > .message {
+    text-align: right;
+}
+html[lang="en"] .feedback-happeness > a {
+    left: 0;
+    right: auto;
+}
+html[lang="en"] .happeness ul {
+    flex-direction: row-reverse;
+}
+html[lang="en"] .happeness-metter {
+    left: 80px;
+    right: auto;
+}
+html[lang="en"] .show-feedbox .happeness-metter {
+    right: auto;
+}
+html[lang="en"] header .chat {
+    right: 15px;
+    left: auto;
+}
+html[lang="en"] header .chat a::before {
+    right: -15px;
+    left: auto;
+    transform: translateY(-50%) scaleX(-1);
+}
+html[lang="en"] .chat .chat-box {
+    right: -350px;
+    left: auto;
+}
+html[lang="en"] .chat.show-chat .chat-box {
+    right: 80px;
+    left: auto;
+}
+html[lang="en"] .chat-box .type-msg .send-btn {
+    right: 0;
+    left: auto;
+}
+html[lang="en"] .chat-box .type-msg textarea {
+    padding-left: 15px;
+    padding-right: 90px;
+    padding-top: 11px;
+}
+html[lang="en"] .chat-box > ul > li.adm .text-msg {
+    text-align: right;
+}
+html[lang="en"] .main-media .main-media-image .category {
+    left: 0;
+    right: auto;
+}
+html[lang="en"] .feedback-happeness > a {
+    transform: rotate(35deg);
+    transform-origin: bottom left;
+}
+html[lang="en"] .feedback-happeness > a > img {
+    transform: rotate(-35deg);
+}
+html[lang="en"] .show-feedbox.feedback-happeness > a,
+html[lang="en"] .feedback-happeness > a:hover {
+    transform: rotate(0);
+}
+html[lang="en"] .show-feedbox.feedback-happeness > a  > img,
+html[lang="en"] .feedback-happeness > a:hover > img {
+    transform: rotate(0deg);
+}
+html[lang="en"]  form label.error {
+    right: auto;
+    left: 20px;
+}
+html[lang="en"] .supplier-entry .kd-6 {
+    border-right: 1px solid #fff;
+    padding-left: 0;
+    border-left: none;
+    padding-right: 45px;
+}
+html[lang="en"] .supplier-entry .kd-6:last-child {
+    border-right: none;
+    padding-right: 15px;
+    padding-left: 45px;
+}
+html[lang="en"] .supplier-btn > a img {
+    margin-right: 10px;
+    margin-left: 0;
+}
+html[lang="en"] .other-bofd .bofd-list {
+    margin-right: -2.4%;
+    margin-left: 0;
+}
+html[lang="en"] .listing.red-border{
+    padding-right: 0;
+    padding-left: 0;
+}
+html[lang="en"] .vendor h2{
+    letter-spacing: 5px;
+}
+html[lang="en"] .main-slider .slider-img .close-video {
+    left: 30px;
+    right: auto;
+}
+html[lang="en"] .brand-listing ul > li {
+    border-left: none;
+    border-right: 1px solid #edeeee;
+}
+
+html[lang="en"] .step-form .submit .btn img {
+    transform: scaleX(-1);
+}
+html[lang="en"]  .step-form-progress span.parth::before {
+    transform: scaleX(-1);
+}
+html[lang="en"] .step-form-progress span.parth::after {
+    right: auto;
+    left: 0;
+}
+html[lang="en"] .step-form-progress span > p img {
+    margin-right: 10px;
+    margin-left: -28px;
+}
+html[lang="en"] .deactivation-sec .download-stors ul > li {
+    margin: 0 15px 10px 0;
+}
+html[lang="en"] .bouble-social-share ul li:first-child {
+    margin-left: 0;
+}
+
+html[lang="en"] .upload-wrapper .file-upload-text {
+
+}
+html[lang="en"] #file-upload-name {
+    padding-left: 190px;
+    padding-right:0;
+}
+html[lang="en"] .happyface-thank .happeness .thank-you-message h4::before {
+    margin-right: 15px;
+    margin-left: 0;
+}
+html[lang="en"] .parth .btw-arrow{
+    transform: scaleX(-1);
+}
+html[lang="en"] .up-nexr-wrap ul.available-on li {
+    margin-left: 0;
+    margin-right: 15px;
+}
+html[lang="en"] .up-nexr-wrap .download-stors::before {
+    left: 0;
+    right: auto;
+}
+html[lang="en"] .up-nexr-wrap > .good-luck-live-video-heading{
+    left: auto;
+    right: 0;
+}
+html[lang="en"] form.Content-form .submit .loader,
+html[lang="en"] form.Content-form .field > div.submit .loader {
+    right: -15px;
+    left: auto;
+}
+html[lang="en"] .upload-main-wrapper progress{
+    right: 15px;
+    left: 0;
+}
+html[lang="en"] .step-form form.Content-form .submit .loader {
+    right: -30px;
+    left: auto;
+}
+html[lang="en"] .artical-content .date > img,
+html[lang="en"] .main-media .date > img,
+html[lang="en"] .artical-row .left-dec .date > img {
+    margin-left: 0;
+    margin-right: 10px;
+}
+
+html[lang="en"] span.quote {
+    right: auto;
+    left: 0;
+    transform: rotateY(0deg);
+}
+
+@media (max-width: 1200px){
+    html[lang="en"] .navigation ul li {
+        margin-left: 0;
+        margin-right: 2.7%;
+    }
+    html[lang="en"] header .logo{
+        margin-right: 3%;
+    }
+    html[lang="en"] .navigation ul li:last-child {
+        margin-right: 0;
+    }
+    html[lang="en"] .priorities-list .item {
+        padding-left: 75px;
+    }
+    html[lang="en"] .priorities-list .item .priorities-content {
+        padding-left: 20px;
+    }
+    html[lang="en"] .bouble-audio-block > div.come-on {
+        left: 40px;
+        right: 290px;
+    }
+    html[lang="en"] .about-img-info {
+        padding-left: 6%;
+    }
+    html[lang="en"] form.Content-form .field > div.input-radio > label{
+        width: 100%;
+        margin-bottom: 10px;
+    }
+    html[lang="en"] form.Content-form .field > div.input-radio > label + .radio{
+        margin-left: 0;
+    }
+    html[lang="en"] .service-list .service-content {
+        padding: 0 0 0 65px;
+    }
+    html[lang="en"] .bofd-list .follow > li,
+    html[lang="en"] .bofd-name .follow > li {
+        margin-right: 10%;
+        margin-left: 0;
+    }
+    html[lang="en"] .job-filter .job-search > div {
+        margin-right: 2%;
+        margin-left: 0;
+    }
+    html[lang="en"] .job-description > ul > li a.btn {
+        font-size: 14px;
+    }
+    html[lang="en"] .tv-achala-slider-info h3{
+        padding-left: 0%;
+        padding-right: 38%;
+    }
+    html[lang="en"] .tab ul.tabs > li:last-child, html[lang="en"] .brand-channel ul > li:last-child {
+        margin-left: 10px;
+    }
+    html[lang="en"] .banner-owl .owl-nav {
+        right: 0;
+        left: 0;
+        padding-right: 0;
+        padding-left: 0;
+        width: 75px;
+        margin:auto;
+    }
+    html[lang="en"] .supplier-entry .kd-6 {
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+    html[lang="en"] .supplier-entry .kd-6:last-child {
+        border-right: none;
+        padding-right: 15px;
+        padding-left: 15px;
+    }
+    html[lang="en"] .supplier-btn > a:first-child {
+        margin-left: 0;
+        margin-right: 10px;
+    }
+    html[lang="en"] section.news-section h1,
+    html[lang="en"] section.news-section h2 {
+        font-size: 22px;
+    }
+    html[lang="en"] .four-grid-view .deactivation-block > div .deactivation-box-info h3 {
+        min-height: 1px;
+    }
+
+    html[lang="en"] .popupwrap h2{
+        letter-spacing: 3px;
+    }
+
+    html[lang="en"] .final-step-done .step-form-progress span.step-two > p img,
+    html[lang="en"] .show-step-two .step-form-progress span.step-one > p img {
+        width: 25px;
+        margin-right: auto;
+        margin-left: -22px;
+    }
+    html[lang="en"] .up-nexr-wrap ul.available-on li {
+        margin-left: 0;
+        margin-right: 10px;
+    }
+    html[lang="en"] .upload-main-wrapper progress {
+        right: 8px;
+        left: 0;
+    }
+}
+@media (max-width: 980px){
+    html[lang="en"] .bouble-audio-block > div.come-on {
+        left: 30px;
+        right: 205px;
+    }
+    .godown-tab .tab .tabs,
+    html[lang="en"] .godown-tab .tab .tabs {
+        margin-left: 0;
+        margin-right: 0;
+    }
+}
+@media (max-width: 767px){
+    html[lang="en"] header .logo {
+        margin: 0 auto;
+    }
+    html[lang="en"] .inner-page .header .logo {
+         margin-left: auto; 
+    }
+    html[lang="en"] .search-lang .search {
+        margin-left: 0;
+        margin-right: 0;
+    }
+    html[lang="en"] .search-lang .lang {
+        margin-left: 0;
+        margin-top: -4px;
+    }
+    html[lang="en"] .banner-slider .item .slider-content {
+        padding: 0;
+    }
+    html[lang="en"] .mobile-menu {
+        left: 19px;
+        right: auto;
+        transform: scalex(-1);
+    }
+    html[lang="en"] .main-menu .search-lang {
+        left: auto;
+        right: 15px;
+    }
+    html[lang="en"] .mobile-menu-logo .mmenu {
+        left: 0;
+        right: auto;
+    }
+    html[lang="en"] .resource-access .raccess {
+        padding-left: 0;
+    }
+    html[lang="en"] .about-media-inner .about-content h1 {
+        left: 15px;
+        right: auto;
+    }
+    html[lang="en"] .priorities-list .item {
+        padding-left: 63px;
+    }
+    html[lang="en"] .priorities-list .item .priorities-content {
+        padding-left: 15px;
+    }
+    html[lang="en"] .bofd-name h5 {
+        padding: 0;
+    }
+    html[lang="en"] .bofd-img .show-on-mobile {
+        margin-right: 0;
+        margin-left: 8px;
+    }
+    html[lang="en"] .bofd-name p {
+        padding-left: 30px;
+    }
+    html[lang="en"] .bofd-name .follow{
+        top: auto;
+    }
+    html[lang="en"] .brand-filter-list .brand-box .brand-dec {
+        padding-right: 0;
+        padding-left: 15px;
+        border-right: 0;
+        border-left: 1px solid #EDEEEE;
+    }
+    html[lang="en"] .brand-filter-list .brand-box .brand-img {
+        padding: 0 16px 0 0;
+    }
+    html[lang="en"] .tab ul.tabs,
+    html[lang="en"] .brand-channel ul {
+        margin: 0 -15px 0 0;
+    }
+    html[lang="en"] .brad-heading-info {
+        width: calc(100% - 95px);
+        position: relative;
+        padding-top: 45px;
+    }
+    html[lang="en"] .bouble-audio-block > div.come-on{
+        float: right;
+        margin-top: 0;
+        width: 100%;
+    }
+    html[lang="en"] .rpmtbp-data-table ul li:hover div, html[lang="en"] .rpmtbp-data-table ul li.active div {
+        transform: translateX(0);
+    }
+    html[lang="en"] .rpmtbp-data-table ul li > div:first-child{
+        border-right: 1px solid var(--blue);
+        border-left: 0;
+    }
+    html[lang="en"] .download-stors ul li:last-child {
+        margin-left: 5px;
+        margin-right: 0;
+    }
+    html[lang="en"] .rpmtbp-data-table ul li > div:last-child {
+        padding-left: 20px;
+    }
+    html[lang="en"] .bottom-footer > div:last-child{
+        padding-left: 0;
+    }
+    html[lang="en"] .bottom-footer > div.f-logo + div + div + div{
+        padding-left: 0;
+        padding-right: 20px;
+    }
+    html[lang="en"] .tab ul.tabs > li:last-child, html[lang="en"] .brand-channel ul > li:last-child {
+        margin-left: 13px;
+    }
+    html[lang="en"] #tv_achala_sc_slider .owl-nav{
+        left: auto;
+        right: 15px;
+    }
+    html[lang="en"] .tv-achala-slider-info h3 {
+        padding-right: 80px;
+    }
+    html[lang="en"] .bouble-social-share ul li {
+        margin-left: 0;
+        margin-right: 12.6%;
+    }
+    html[lang="en"] .bouble-social-share ul li:last-child{
+        margin-right: 0;
+    }
+    html[lang="en"] .bottom-footer .f-menu a{
+        font-size: 12px;
+    }
+    html[lang="en"] .we-located {
+        font-size: 12px;
+    }
+    html[lang="en"] .deactivation-box-img {
+        margin-right: 15px;
+        margin-left: 0;
+    }
+    html[lang="en"] .deactivation-box-info .btn{
+        font-size: 12px;
+    }
+    html[lang="en"] .radio-round {
+        margin-right: 12px;
+    }
+    html[lang="en"] .radio-box{
+        align-items: flex-start;
+    }
+    html[lang="en"] .about-media .about-content {
+        padding-left: 0;
+        padding-right: 0;
+    }
+    html[lang="en"] .about-img-info p,
+    html[lang="en"] .digi-about-details-info p {
+        font-size: 12px;
+    }
+    html[lang="en"] .about-img-info {
+        padding-left: 0;
+    }
+    html[lang="en"] .job-filter .job-search > div {
+        margin-right: 2%;
+        margin-left: 0;
+    }
+    html[lang="en"] .job-filter .job-search > div:nth-last-child(2) {
+        margin-right: 0;
+    }
+    html[lang="en"] .job-search .job-label {
+        width: 70px;
+        text-align: left;
+    }
+    html[lang="en"] .job-search select {
+        width: calc(100% - 80px);
+    }
+    html[lang="en"] .job-filter .job-search .btn {
+        margin-top: 6px;
+    }
+    html[lang="en"] .job-description > ul > li a.btn {
+        font-size: 12px;
+    }
+    html[lang="en"] .job-description > ul > li {
+        padding: 0 10px;
+    }
+    html[lang="en"] .career-bg .portal-content {
+        width: 100%;
+        margin: 0;
+        border: none;
+        padding: 18px 0;
+    }
+    html[lang="en"] .artical-row > .sidebar {
+        margin-right: 0;
+        margin-left: 0;
+    }
+    html[lang="en"] .share > li:last-child {
+         margin-left: 0; 
+    }
+    html[lang="en"] .select-option li:last-child {
+         margin-left: 10px;
+    }
+    html[lang="en"] .address-detail.for-mobile {
+         padding-right: 0;
+         padding-left: 20px;
+    }
+    html[lang="en"] form.Content-form .input-radio .radio{
+       margin-left: 0%
+    }
+    html[lang="en"] .service-list .service-content {
+        padding: 0 0 0 55px;
+    }
+    html[lang="en"] .contact-detail p a {
+       padding-right: 6px;
+       margin-right: 5px;
+    }
+    html[lang="en"] .vendor .kd-row > .kd-6 {
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+    html[lang="en"] ul.uploading-list li {
+        padding-left: 0;
+        padding-right: 60px;
+        text-align: left;
+    }
+    html[lang="en"] .violation-form + ul.uploading-list {
+        padding-right: 20px;
+        padding-left: 20px;
+    }
+    html[lang="en"] .top-footer .subscribe {
+        float: none;
+    }
+     html[lang="en"] .top-footer .follow-social {
+        float: none;
+    }
+    html[lang="en"] .service-list li {
+        float: none;
+    }
+    html[lang="en"] .service-list li:nth-child(2n) {
+        float: none;
+    }
+    html[lang="en"] .priorities-list li:nth-child(2n) {
+        padding-right: 0;
+        padding-left: 0;
+    }
+    html[lang="en"] .key-detail ul li {
+        margin-left: 0;
+        margin-right: 0;
+    }
+    html[lang="en"] .contact-detail p {
+        margin-right: 0;
+        margin-left: 0;
+    }
+    html[lang="en"] .media-kit-popup .close {
+        right: auto;
+        left: 24px;
+    }
+    html[lang="en"] .sub-box .form input[type="text"] {
+        padding: 0 80px 0 15px;
+    }
+    html[lang="en"] .good-luck-video-block {
+        margin-left: 0;
+        margin-right: 0;
+    }
+    html[lang="en"] .sport-btn-type ul li a p {
+        margin-left: 0;
+        margin-right: 3px;
+    }
+    html[lang="en"] .godown-tab .tab .tabs {
+        margin-left: 0;
+        margin-right: -15px;
+    }
+    html[lang="en"] .copyright ul > li {
+        padding: 0 10px;
+        margin: 0;
+        position: relative;
+        width: 33.33%;
+        text-align: center;
+        margin-bottom: 10px;
+    }
+    html[lang="en"] .copyright ul > li:last-child {
+        padding-right: 10px;
+        margin-right: 0;
+    }
+    html[lang="en"] .menu-social-icon {
+        right: 20px;
+        width: 30px;
+        left: auto;
+    }
+    html[lang="en"] .navigation ul {
+        padding-left: 0;
+        padding-right: 40px;
+    }
+    html[lang="en"] .navigation > ul > li a {
+        text-align: left;
+        padding-right: 0;
+        padding-left: 0px;
+    }
+    html[lang="en"] .navigation > ul > li a::before {
+        left: 0;
+        right: auto;
+        background-color: transparent;
+    }
+    html[lang="en"] .mobile-search .form input[type="text"] {
+        padding: 0 78px 0 8px;
+        border: none;
+    }
+    html[lang="en"] .mobile-search .form .submit {
+        right: 0;
+        top: 0;
+        left: auto;
+    }
+    html[lang="en"] .mobile-search .form .submit::before {
+        left: 15px;
+        right: auto;
+        transform: scaleX(-1);
+    }
+    
+    html[lang="en"] .mobile-search .form .submit input {
+        width: 100px;
+        height: 32px;
+        border-radius: 0px 2px 2px 0px;
+        padding-right: 15px;
+        padding-left: 30px;
+    }
+    html[lang="en"] .main-menu .navigation {
+        left: -100%;
+        right: auto;
+    }
+    html[lang="en"] .show-menu .main-menu .navigation {
+        left: 0;
+        right: auto;
+    }
+
+    html[lang="en"] .slider-img .mute {
+        right: 10px;
+    }
+    html[lang="en"] .banner-owl .owl-nav {
+        padding-right: 0;
+        padding-left: 0;
+        width: 75px;
+        right: auto;
+    }
+    html[lang="en"] .other-bofd .bofd-list {
+        margin-right: 0;
+        margin-left: 0;
+    }
+    html[lang="en"] .main-media .main-media-content{
+        padding-right: 0;
+        padding-left: 0;
+    }
+    html[lang="en"] .vendor .kd-row > .kd-6:last-child {
+        padding-left: 15px;
+    }
+
+    html[lang="en"] .vendor h2 {
+        letter-spacing: 0;
+    }
+    html[lang="en"] .main-slider .slider-img .close-video {
+        left: 15px;
+        right: auto;
+    }
+    html[lang="en"] section.news-section h1,
+    html[lang="en"] section.news-section h2 {
+        font-size: 18px;
+    }
+    html[lang="en"] .career-bg > h2,
+    html[lang="en"] .career-popup .popupwrap .job-logo .job-type-name h2,
+    html[lang="en"] .popupwrap.media-kit-download h2,
+    html[lang="en"] .media-kit-form h2,
+    html[lang="en"] .happeness-metter h4,
+    html[lang="en"] .bouble-audio-heading h3,
+    html[lang="en"] .article-section + section .container > h3,
+    html[lang="en"] h2.title,
+    html[lang="en"] .vision-section h2,
+    html[lang="en"] .about-media-inner .about-content h1,
+    html[lang="en"] section.news-section h1,
+    html[lang="en"] section.news-section h2,
+    html[lang="en"] .service h2,
+    html[lang="en"] .our-brand h1,
+    html[lang="en"] .our-brand h2,
+    html[lang="en"] .about-media .about-content h1{
+        letter-spacing: 2.5px;
+    }
+    html[lang="en"] .bofd-list .follow {
+        right: 6px;
+        left: auto;
+        bottom: auto;
+        top: 3px;
+    }
+    html[lang="en"] .happeness-metter {
+        left: 0;
+        right: 0;
+        bottom: 0;
+    }
+    html[lang="en"] .show-feedbox .happeness-metter {
+        left: 0;
+        right: 0;
+    }
+    
+    html[lang="en"] .chat.show-chat .chat-box {
+        right: 0;
+        left: 0;
+    }
+    html[lang="en"] .song-img {
+        margin-right: 0;
+        margin-left: 8px;
+    }
+    html[lang="en"] .digi-about-img {
+        margin-left: 0;
+        margin-right: 0;
+    }
+    html[lang="en"] .tv-achala-slider-bottom-nav {
+        margin-left: 0;
+        margin-right: -15px;
+    }
+    html[lang="en"] .popupwrap .option > div
+    html[lang="en"] .popupwrap .option > div.brand-kit{
+        padding: 15px;
+    }
+    html[lang="en"] .popupwrap .option > div.download::before{
+        left: 15px;
+        right: 15px;
+    }
+    html[lang="en"] .publishing-box .brand-listing ul > li{
+        border-right: 1px solid #edeeee !important;
+        border-left:none !important;
+    }
+    html[lang="en"] .publishing-box .brand-listing ul > li:nth-child(2n) {
+        border-right: none !important;
+    }
+    html[lang="en"] .popupwrap .option > div.brand-kit,
+    
+    html[lang="en"] .popupwrap .option > div {
+        padding: 15px;
+    }
+    html[lang="en"] .media-kit-popup .grey-bg .for-mobile {
+        letter-spacing: 3px;
+    }
+    html[lang="en"] .upload-wrapper .file-upload-text {
+        left: 50px;
+        right: auto;
+    }
+    html[lang="en"] #file-upload-name {
+        padding-left: 140px;
+        padding-right: 0;
+    }
+    html[lang="en"] .final-step-done .step-form-progress span.step-two > p img,
+    html[lang="en"] .show-step-two .step-form-progress span.step-one > p img {
+        width: 15px;
+        margin-right: 5px;
+        margin-left: -22px;
+    }
+    html[lang="en"] .deactivation-sec .download-stors ul > li,
+    html[lang="en"] .deactivation-sec .download-stors ul > li:first-child{
+        margin: 3px;
+    }
+
+    html[lang="en"] .up-nexr-wrap p.available-on,
+    html[lang="en"] .up-nexr-wrap .download-stors p.we-located{
+        margin: 0 12px 0 0;
+    }
+    
+    html[lang="en"] .upload-main-wrapper progress {
+        right: 0;
+        left: 0;
+        width: 100%;
+    }
+}
+/*
+html[lang="en"] 
+*/

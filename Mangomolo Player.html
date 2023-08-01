@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Mangomolo Player</title>
+    <script src="//code.jquery.com/jquery-latest.min.js"></script>
+    <script type="text/javascript" src="//player.mangomolo.com/public/js/new-players-event.min.js"></script>
+
+</head>
+<body>
+
+<iframe id="frameID" src="//player.mangomolo.com/v1/audiolive?id=MTY0&amp;channelid=MTUy&amp;countries=Q0M=&amp;w=100%25&amp;h=100%25&amp;filter=DENY&amp;signature=20a489f5a9f2ee755061e83ae608ea01&amp;autoplay=false&amp;player_profile=NjI=" __idm_id__="930890753" width="698" height="698"></iframe>
+
+<button id="play_btn">Play this video</button>
+<button id="pause_btn">Pause this video</button>
+<button id="mute_btn">Mute this video</button>
+<button id="unmute_btn">Unmute this video</button>
+<button id="check_mute_btn">Check mute status</button>
+
+<script>
+    var player = false;
+    var iframe = false;
+    $(document).ready(function(){
+        var iframe = $( "#frameID" );
+        //$("#frameID").trigger("click");
+        $('iframe[src*="player.mangomolo.com"]').each(function(){
+            player = new playerjs.Player($(this)[0]);
+
+            player.on('play', function(){
+                console.log('External play');
+            });
+            player.on('pause', function(){
+                console.log('External pause');
+            });
+            player.on('ended', function(){
+                console.log('External ended');
+            });
+            player.on('seeked', function(){
+                console.log('External seeked');
+            });
+
+            player.on('ready', function(){
+                console.log('External ready');
+            });
+
+            window.setInterval(function () {
+                player.getDuration(function (duration) {
+                    console.log("Duration: " + duration)
+                });
+                player.getCurrentTime(function (duration) {
+                    console.log("getCurrentTime: " + duration)
+                });
+            }, 4 * 1000);
+
+            $( "#play_btn" ).click(function() {
+                player.play();
+            });
+
+            $( "#pause_btn" ).click(function() {
+                player.pause();
+            });
+
+            $( "#pause_btn" ).click(function() {
+                player.pause();
+            });
+
+            $( "#mute_btn" ).click(function() {
+                iframe[0].contentWindow.postMessage({
+                    "_method": "mute",
+                    "player": "mango_player",
+                    "parameter": "",
+                }, 'https://player.mangomolo.com');
+            });
+
+            $( "#unmute_btn" ).click(function() {
+                iframe[0].contentWindow.postMessage({
+                    "_method": "unmute",
+                    "player": "mango_player",
+                    "parameter": "",
+                }, 'https://player.mangomolo.com');
+            });
+
+            $( "#check_mute_btn" ).click(function() {
+                iframe[0].contentWindow.postMessage({
+                    "_method": "get_muted",
+                    "player": "mango_player",
+                    "parameter": "",
+                }, 'https://player.mangomolo.com');
+            });
+        });
+
+        //Handle to receive if the player is muted
+        window.addEventListener("message", receiveMessage, false);
+        function receiveMessage(event) {
+            console.log(event);
+            if(event.origin !== "https://player.mangomolo.com") return;
+
+            var data = event.data;
+            if(data.player && data.player == "mango_player" && data._method == "get_muted") {
+                var mute = data.value;
+                if(mute){
+                    alert("Muted");
+                }else {
+                    alert("UnMuted");
+                }
+            }
+        }
+    });
+</script>
+
+</body>
+</html>
